@@ -7,7 +7,7 @@ except ImportError:
 
 
 setup(
-    name='bonspy',
+    name='captify-bonspy',
     version='0.0.1',
     description='Library that converts bidding trees to the AppNexus Bonsai language.',
     author='Alexander Volkmann, Georg Walther',
