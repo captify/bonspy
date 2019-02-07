@@ -13,12 +13,11 @@ setup(
     author='Alexander Volkmann, Georg Walther',
     packages=['bonspy'],
     package_dir={'bonspy': 'bonspy'},
-    url='https://github.com/mathemads/bonspy',
-    download_url='https://github.com/mathemads/bonspy/tarball/master',
+    url='https://github.com/captify/bonspy',
+    download_url='https://github.com/captify/bonspy/blob/master',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: BSD License',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 2.7'
     ]
 )
