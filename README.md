@@ -1,5 +1,7 @@
 # Bonspy
 
+To install "sudo pip3 install git+https://github.com/captify/bonspy"
+
 Bonspy converts bidding trees from various input formats to the
 [Bonsai bidding language of AppNexus](http://blog.appnexus.com/2015/introducing-appnexus-programmable-bidder/).
 
